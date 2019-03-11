@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = zsh git_setup.shShuizhou Qiao 2638660238@qq.com
-	name = cd ~/code/$GITHUB_USERNAME/dotfiles
+	email = 2638660238@qq.com
+	name = Shuizhou Qiao
